@@ -1,2 +1,2 @@
 # assign2
-markdown 소개
+markdown, cheat sheet 
